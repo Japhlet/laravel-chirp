@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Chirp;
-Use Illuninate\RedirectResponse;
+Use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\View\View;
